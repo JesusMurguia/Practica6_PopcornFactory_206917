@@ -19,7 +19,10 @@
     <color name="last_pink">#ef029d</color>
     <color name="less_purple">#b2108D</color>
 
-
+    <color name="azul_fuerte">#3B5998</color>
+    <color name="azul_bajo">#8B9DC3</color>
+    <color name="gris_fuerte">#DFE3EE</color>
+    <color name="gris_bajo">#818181</color>
     <color name="mainText">#C5C5C5</color>
     <color name="yellow">#e0da37</color>
 </resources>
