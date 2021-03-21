@@ -2,12 +2,13 @@
 <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/r4"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:background="@color/black"
     android:orientation="vertical"
-    android:verticalScrollbarPosition="right"
 
+    android:verticalScrollbarPosition="right"
     tools:context=".SeatSelection">
 
 
@@ -46,6 +47,7 @@
         android:paddingHorizontal="@dimen/hpradiogroup">
 
         <RadioButton
+            android:id="@+id/r1"
             android:layout_width="60dp"
             android:layout_height="60dp"
             android:layout_marginHorizontal="3dp"
@@ -58,6 +60,7 @@
             android:textStyle="bold"></RadioButton>
 
         <RadioButton
+            android:id="@+id/r2"
             android:layout_width="60dp"
             android:layout_height="60dp"
             android:layout_marginHorizontal="3dp"
@@ -70,6 +73,7 @@
             android:textStyle="bold"></RadioButton>
 
         <RadioButton
+            android:id="@+id/r3"
             android:layout_width="60dp"
             android:layout_height="60dp"
             android:layout_marginHorizontal="3dp"
@@ -82,6 +86,7 @@
             android:textStyle="bold"></RadioButton>
 
         <RadioButton
+            android:id="@+id/r4"
             android:layout_width="60dp"
             android:layout_height="60dp"
             android:layout_marginHorizontal="3dp"
@@ -94,6 +99,7 @@
             android:textStyle="bold"></RadioButton>
 
         <RadioButton
+            android:id="@+id/r5"
             android:layout_width="60dp"
             android:layout_height="60dp"
             android:layout_marginHorizontal="3dp"
@@ -116,6 +122,7 @@
         android:paddingHorizontal="@dimen/hpradiogroup">
 
         <RadioButton
+            android:id="@+id/r6"
             android:layout_width="60dp"
             android:layout_height="60dp"
             android:layout_marginHorizontal="3dp"
@@ -128,6 +135,7 @@
             android:textStyle="bold"></RadioButton>
 
         <RadioButton
+            android:id="@+id/r7"
             android:layout_width="60dp"
             android:layout_height="60dp"
             android:layout_marginHorizontal="3dp"
@@ -140,6 +148,7 @@
             android:textStyle="bold"></RadioButton>
 
         <RadioButton
+            android:id="@+id/r8"
             android:layout_width="60dp"
             android:layout_height="60dp"
             android:layout_marginHorizontal="3dp"
@@ -152,6 +161,7 @@
             android:textStyle="bold"></RadioButton>
 
         <RadioButton
+            android:id="@+id/r9"
             android:layout_width="60dp"
             android:layout_height="60dp"
             android:layout_marginHorizontal="3dp"
@@ -164,6 +174,7 @@
             android:textStyle="bold"></RadioButton>
 
         <RadioButton
+            android:id="@+id/r10"
             android:layout_width="60dp"
             android:layout_height="60dp"
             android:layout_marginHorizontal="3dp"
@@ -188,6 +199,7 @@
         android:paddingHorizontal="@dimen/hpradiogroup">
 
         <RadioButton
+            android:id="@+id/r11"
             android:layout_width="60dp"
             android:layout_height="60dp"
             android:layout_marginHorizontal="3dp"
@@ -200,6 +212,7 @@
             android:textStyle="bold"></RadioButton>
 
         <RadioButton
+            android:id="@+id/r12"
             android:layout_width="60dp"
             android:layout_height="60dp"
             android:layout_marginHorizontal="3dp"
@@ -212,6 +225,7 @@
             android:textStyle="bold"></RadioButton>
 
         <RadioButton
+            android:id="@+id/r13"
             android:layout_width="60dp"
             android:layout_height="60dp"
             android:layout_marginHorizontal="3dp"
@@ -224,6 +238,7 @@
             android:textStyle="bold"></RadioButton>
 
         <RadioButton
+            android:id="@+id/r14"
             android:layout_width="60dp"
             android:layout_height="60dp"
             android:layout_marginHorizontal="3dp"
@@ -236,6 +251,7 @@
             android:textStyle="bold"></RadioButton>
 
         <RadioButton
+            android:id="@+id/r15"
             android:layout_width="60dp"
             android:layout_height="60dp"
             android:layout_marginHorizontal="3dp"
@@ -260,6 +276,7 @@
         android:paddingHorizontal="@dimen/hpradiogroup">
 
         <RadioButton
+            android:id="@+id/r16"
             android:layout_width="60dp"
             android:layout_height="60dp"
             android:layout_marginHorizontal="3dp"
@@ -272,6 +289,7 @@
             android:textStyle="bold"></RadioButton>
 
         <RadioButton
+            android:id="@+id/r17"
             android:layout_width="60dp"
             android:layout_height="60dp"
             android:layout_marginHorizontal="3dp"
@@ -284,6 +302,7 @@
             android:textStyle="bold"></RadioButton>
 
         <RadioButton
+            android:id="@+id/r18"
             android:layout_width="60dp"
             android:layout_height="60dp"
             android:layout_marginHorizontal="3dp"
@@ -296,6 +315,7 @@
             android:textStyle="bold"></RadioButton>
 
         <RadioButton
+            android:id="@+id/r19"
             android:layout_width="60dp"
             android:layout_height="60dp"
             android:layout_marginHorizontal="3dp"
@@ -308,6 +328,7 @@
             android:textStyle="bold"></RadioButton>
 
         <RadioButton
+            android:id="@+id/r20"
             android:layout_width="60dp"
             android:layout_height="60dp"
             android:layout_marginHorizontal="3dp"
